@@ -1,5 +1,5 @@
-# FLL-UTEP-Scoreboard
-Python software composed and deployed to handle scoring and leaderboards during the official El Paso FIRST® LEGO® League Explore Festival. This festival was held at UTEP in January 2025 and the software granted logistical support for over 300 students in over 20+ robotics teams. [🚩]
+# Work-Ambassador-FLL-UTEP-Scoreboard
+Python software I personally composed and deployed to handle scoring and leaderboards during the official El Paso FIRST® LEGO® League Explore Festival. This festival was held at UTEP in January 2025 and the software granted logistical support for over 300 students in over 20+ robotics teams. Granted logistical support for over 300 students in over 20+ robotics teams. [🚩] 
 
 <p align="center">
 <img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_TitleScreen.png" height="375px"> 
@@ -35,8 +35,7 @@ Python software composed and deployed to handle scoring and leaderboards during 
 | --------------- | --------------- | --------------- |
 | ReadMeAssets | 🗂️ | Contains pictures, gifs, and other assets to make this README! |
 | First Lego League Scoreboard | .bat | Windows .bat file that opens the software when the *Run Me!* shortcut is opened. |
-| First Lego League Scoreboard | .text | Contains the path information the software is looking for. (Place all files in a folder names LegoScorer in the Downloads Directory
-e.g. "%USERPROFILE%\Downloads\LegoScorer")
+| First Lego League Scoreboard | .text | Contains the path information the software is looking for. (Place all files in a folder named LegoScorer in the Downloads Directory, see Running Instructions Section.)
 | README | .md | All of the text that you are currently reading. |
 | Run Me! - First Lego League Scoreboard | .lnk | A simple, clickable shorcut that runs the First Leo League Scoreboard.bat file. This was made to make it easy to run for anyone unfamiliar with a command line interface, so it just opens like any other app. |
 | UTEP_Flat_Logo_Orange | .png | A UTEP logo, taken from UTEP's official assets. Used so that it would be of high quality and follow guidelines on the software. |
