@@ -48,7 +48,7 @@ Python software I personally composed and deployed to handle scoring and leaderb
 
 **Here's a final picture of myself at one of our events! I consider the upload of this code to be the closing page for my time as an Engineering Ambassador.**
 <p align="center">
-<img src="https://github.com/Azaze7/Work-Ambassador-FLL-UTEP-Scoreboard/blob/main/ReadMeAssets/UTEP_Blue_Origin_Selfie.jpgg" height="150px">
+<img src="https://github.com/Azaze7/Work-Ambassador-FLL-UTEP-Scoreboard/blob/main/ReadMeAssets/UTEP_Blue_Origin_Selfie.jpg" height="150px">
 </p> 
 
 Thank You for reading about this little software. I hope it was interesting!
