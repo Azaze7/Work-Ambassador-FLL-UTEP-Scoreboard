@@ -2,7 +2,7 @@
 Python software I personally composed and deployed to handle scoring and leaderboards during the official El Paso FIRST® LEGO® League Explore Festival. This festival was held at UTEP in January 2025 and the software granted logistical support for over 300 students in over 20+ robotics teams. Granted logistical support for over 300 students in over 20+ robotics teams. [🚩] 
 
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_TitleScreen.png" height="375px"> 
+<img src="https://github.com/Azaze7/Work-Ambassador-FLL-UTEP-Scoreboard/blob/main/ReadMeAssets/UTEP_FLL_Scoreboard_Setup.jpg" height="375px"> 
 </p>
 
 ## 🔎 Table of Contents.
@@ -18,7 +18,7 @@ Python software I personally composed and deployed to handle scoring and leaderb
 * It was run on a computer used for scoring that was hooked up to a large T.V. screen via hdmi. It allowed students and coaches to look at their current standings in the tournament without asking the judges or scorekeepers directly.
 * Since it was based on the existing excel sheet used for scoring, we were able to automate the process and not require an additional redundant system to showcase standings.
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Borderlands_Glitch_Logo.png" height="200px">
+<img src="https://github.com/Azaze7/Work-Ambassador-FLL-UTEP-Scoreboard/blob/main/ReadMeAssets/UTEP_FLL_Table_Setup.jpg" height="200px">
 </p> 
 
 ## 🧱 Running Instructions.
@@ -46,9 +46,9 @@ Python software I personally composed and deployed to handle scoring and leaderb
 ## 🚪 Closing Thoughts.
 > "The success of using this software during the event brings myself great pride. As always, I loved my job helping the next generation become passionate and interested in engineering, and am very pleased with how smoothly it all ran. A highlight of my curretly *short* career that I hope to build upon!" -Gilbert Guzman
 
-**Here's a final picture of myself at the event! I consider this the closing page for my time as an Engineering Ambassador.**
+**Here's a final picture of myself at one of our events! I consider the upload of this code to be the closing page for my time as an Engineering Ambassador.**
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Most_Technical_Award_Ceremony_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="150px">
+<img src="https://github.com/Azaze7/Work-Ambassador-FLL-UTEP-Scoreboard/blob/main/ReadMeAssets/UTEP_Blue_Origin_Selfie.jpgg" height="150px">
 </p> 
 
 Thank You for reading about this little software. I hope it was interesting!
